@@ -1,0 +1,14 @@
+# src/config.py
+
+# Telegram Bot Token
+TELEGRAM_TOKEN = "6840648067:AAF5IIZuciACk7sOMlpqcNAMf0YR7FtDoUU"
+
+# OpenAI API Key
+OPENAI_API_KEY = "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"
+
+
+AWS_ACCESS_KEY_ID = "AKIA4MTWIIK3AHDENL6W"
+AWS_SECRET_ACCESS_KEY = "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"
+AWS_REGION = "ap-south-1"
+
+
